@@ -1,7 +1,7 @@
 # **Guilherme Gomes** 
 
 ## 🔍 **Sobre mim**
-Olá, me chamo Guilherme Gomes, moro em 📍Vila Velha-ES e sou um estudante apaixonado por programação, atualmente cursando Bacharelado em Sistemas de Informação pelo Instituto Federal do Espirito Santo [[IFES](https://www.ifes.edu.br)]
+Olá! 👋 Eu sou Guilherme Gomes, moro em 📍Vila Velha-ES e estou atualmente cursando Bacharelado em Sistemas de Informação no Instituto Federal do Espírito Santo ([IFES](https://www.ifes.edu.br)). Apaixonado por tecnologia e desenvolvimento de software, estou sempre em busca de novos desafios e aprendizados.
 
 ## 📱 **Conecte-se comigo**
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:guilhermeneto26@hotmail.com) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-gomes-a28346297/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oguizer) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guigneto) [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/guilhermeneto26) 
